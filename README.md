@@ -31,8 +31,10 @@ def about_me():
 - ImageJ
 - PyMOL
 
+
 **Programming**
 - Python (matplotlib, numpy, pandas)
+
 
 **Markup**
 - $\LaTeX$
