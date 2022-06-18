@@ -30,12 +30,10 @@ def about_me():
 - OriginLab
 - ImageJ
 - PyMOL
-
-
+  
 **Programming**
 - Python (matplotlib, numpy, pandas)
-
-
+  
 **Markup**
 - $\LaTeX$
 - MarkDown
