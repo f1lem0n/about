@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @filem0n (Filip Hajdyła)
-- 👀 I’m interested in modern biology and data sciences 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: hajdylaf@gmail.com; filip.hajdyla@student.uj.edu.pl
+# Hello there!
 
-<!---
-filem0n/filem0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```py
+def about_me():
+    print('My name is Filip Hajdyła or f1lem0n.')
+    print('I am an undergraduate biotechnology student at FBBB, Jagiellonian University, Krakow.')
+    print('I am fascinated with nature on a molecular scale...')
+    print('But I also like pizza, computers and Star Wars!')
+```
+
+### Contact information
+[hajdylaf@gmail.com](mailto:hajdylaf@gmail.com)  
+[f1lem0n](https://t.me/f1lem0n)
+
+### I am interested in...
+- Molecular biology
+- All sorts of omics  
+- Environmental and industrial biotechnology
+- Bioinformatics
+- HT data analysis and automation
+
+### What do I use?  
+**Tools**
+- Jupyter Labs
+- PyCharm
+- Git
+- Linux CLI
+- OriginLab
+- ImageJ
+- PyMOL
+
+**Programming**
+- Python (matplotlib, numpy, pandas)
+
+**Markup**
+- LaTeX
+- MarkDown
