@@ -35,5 +35,5 @@ def about_me():
 - Python (matplotlib, numpy, pandas)
 
 **Markup**
-- LaTeX
+- $\LaTeX$
 - MarkDown
