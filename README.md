@@ -1,3 +1,6 @@
+[gmail]: 
+[tg]: https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg
+
 # Hello there!
 
 ```py
@@ -9,7 +12,9 @@ def about_me():
 ```
 
 ### Contact information
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16"/>](mailto:hajdylaf@gmail.com)
 [hajdylaf@gmail.com](mailto:hajdylaf@gmail.com)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16"/>](https://t.me/f1lem0n)
 [f1lem0n](https://t.me/f1lem0n)
 
 ### I am interested in...
