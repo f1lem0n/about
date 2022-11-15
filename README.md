@@ -26,12 +26,13 @@ def about_me():
 - Jupyter
 - Neovim
 - Git
-- Bash
 - ImageJ
 - PyMOL
 
 **Programming**
 - Python (matplotlib, numpy, pandas)
+- Shell
+- Snakemake
 
 **Markup**
 - $\LaTeX$
