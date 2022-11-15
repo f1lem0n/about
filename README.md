@@ -30,7 +30,7 @@ def about_me():
 - PyMOL
 
 **Programming**
-- Python (matplotlib, numpy, pandas)
+- Python
 - Shell
 - Snakemake
 
