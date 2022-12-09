@@ -15,7 +15,7 @@ def about_me():
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16"/>](https://t.me/f1lem0n)
 [f1lem0n](https://t.me/f1lem0n)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2880px-LinkedIn_Logo_2013.svg.png" width="16"/>](https://www.linkedin.com/in/filip-hajdy%C5%82a-75b13125a/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="16"/>](https://www.linkedin.com/in/filip-hajdy%C5%82a-75b13125a/)
 [Filip Hajdyła](https://t.me/f1lem0n)
 
 ## I am interested in...
