@@ -16,7 +16,7 @@ def about_me():
 [f1lem0n](https://t.me/f1lem0n)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="16"/>](https://www.linkedin.com/in/filip-hajdy%C5%82a-75b13125a/)
-[Filip Hajdyła](https://t.me/f1lem0n)
+[Filip Hajdyła](https://www.linkedin.com/in/filip-hajdy%C5%82a-75b13125a/)
 
 ## I am interested in...
 - Molecular biology
