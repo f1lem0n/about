@@ -33,6 +33,7 @@ def about_me():
 - Python
 - Shell
 - Snakemake
+- Vimscript
 
 **Markup**
 - $\LaTeX$
