@@ -5,7 +5,7 @@ def about_me():
     print('My name is Filip Hajdyła.')
     print('I am a graduate biotechnology student at FBBB, Jagiellonian University, Krakow.')
     print('I am fascinated with nature on a molecular scale...')
-    print('But I also like pizza, computers and Star Wars!')
+    print('But I am also in love data analysis and automation.')
 ```
 
 ## Contact information
