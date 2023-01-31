@@ -14,4 +14,5 @@
 
 - MSc Student at [Analytical Biochemistry Department, JU](https://zba.wbbib.uj.edu.pl/en_GB/zaklad)
 - Bioinformatics enthusiast
+- Neovim (LunarVim) freak
 - Open for cooperation
