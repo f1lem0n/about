@@ -22,7 +22,10 @@
 
 ## What do I use?
 
-- Python
-- Bash
-- R
-- Octave
+🐍 Python
+
+📜 Bash
+
+🧮 R
+
+➕ Octave
