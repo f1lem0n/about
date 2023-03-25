@@ -23,6 +23,6 @@
 ## What do I use?
 
 - Python
-- R
 - Bash
+- R
 - Octave
