@@ -16,8 +16,6 @@
 
 💻 Bioinformatics enthusiast 
 
-⏩ Neovim [(LunarVim)](https://github.com/LunarVim/LunarVim) freak 
-
 🤝 Open for cooperation 
 
 ## What do I use?
