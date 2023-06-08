@@ -22,4 +22,5 @@
 
 - **Data analysis:** Python (numpy, pandas, sklearn, tensorflow, plotly) • Bash • R
 - **Web:** HTML5 • PHP
+- **Databases:** MySQL • MariaDB
 - **Markup:** Markdown • $\LaTeX$
