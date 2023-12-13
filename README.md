@@ -10,7 +10,7 @@ My name is Filip. I am a fifth-year student at Jagiellonian University majoring 
 
 💻 Bioinformatics enthusiast 
 
-🤝 Open for cooperation 
+🤝 Open to cooperation 
 
 ## What do I use?
 
