@@ -6,7 +6,7 @@ My name is Filip. I am a fifth-year student at Jagiellonian University majoring 
 
 ## About me
 
-📚 MSc Student at [Analytical Biochemistry Department, JU](https://zba.wbbib.uj.edu.pl/en_GB/zaklad)
+📚 MSc Student at [Department of Molecular Biophysics, JU](https://wbbib.uj.edu.pl/en_GB/wydzial/zaklady-i-pracownie/zaklad-biofizyki-molekularnej)
 
 💻 Bioinformatics enthusiast 
 
