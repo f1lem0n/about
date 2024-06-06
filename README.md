@@ -14,7 +14,7 @@ My name is Filip. I am a fifth-year student at Jagiellonian University majoring 
 
 ## What do I use?
 
-- **Data analysis:** Python (numpy, pandas, sklearn, tensorflow, plotly) • Bash • R
+- **Data analysis:** Python (numpy, pandas, sklearn, pytorch, plotly) • Bash • R
 - **Web:** HTML5 • PHP
 - **Databases:** MySQL • MariaDB
 - **Markup:** Markdown • $\LaTeX$ • R markdown
