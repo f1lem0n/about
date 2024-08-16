@@ -14,4 +14,4 @@ My name is Filip. I work at Maria Skłodowska-Curie National Research Institute 
 
 - **Programming:** Python • R • Bash • C++
 - **Databases:** MySQL • MariaDB
-- **Markup:** Markdown • $\LaTeX$ • R markdown
+- **Markup:** Markdown • $\LaTeX$
