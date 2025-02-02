@@ -16,4 +16,4 @@ My name is Filip. I have a strong interest in multi-omics data integration, and 
 - **Markup:** Markdown • $\LaTeX$
 
 ## Contact information
-[E-mail](mailto:hajdylaf@gmail.com) • [LinkedIn](https://www.linkedin.com/in/filip-hajdyla/) • [Medium](https://medium.com/@filem0n1) • [DockerHub](https://hub.docker.com/u/f1lem0n)
+[E-mail](mailto:hajdylaf@gmail.com) • [LinkedIn](https://www.linkedin.com/in/filip-hajdyla/)
