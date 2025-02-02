@@ -1,14 +1,16 @@
 # Hello there! 👋
-My name is Filip. I work at Maria Skłodowska-Curie National Research Institute of Oncology. I am also a fifth-year student at Jagiellonian University majoring in Molecular Biotechnology. Despite my studies being focused on wet lab and my extensive experience in laboratory work, my interests are primarily focused on biological data analysis.
+My name is Filip. I work at Maria Skłodowska-Curie National Research Institute of Oncology. I hold a MSc in Molecular Biotechnology from Jagiellonian University. I have a strong interest in multi-omics data integration, and clinical data analysis.
 
 ## Contact information
 [E-mail](mailto:hajdylaf@gmail.com) • [LinkedIn](https://www.linkedin.com/in/filip-hajdyla/) • [Medium](https://medium.com/@filem0n1) • [DockerHub](https://hub.docker.com/u/f1lem0n)
 
 ## About me
 
-📚 MSc Student at [Department of Molecular Biophysics, JU](https://wbbib.uj.edu.pl/en_GB/wydzial/zaklady-i-pracownie/zaklad-biofizyki-molekularnej)
+📚 Graduated in Molecular Biotechnology from [Jagiellonian University](https://en.uj.edu.pl/en_GB/start)
 
-💻 Bioinformatics specialist
+📚 Currently pursuing external PhD at [Warsaw PhD School in Natural and BioMedical Sciences](https://warsaw4phd.eu/en/)
+
+💻 Bioinformatics specialist at [Maria Sklodowska-Curie National Research Institute of Oncology, Warsaw](https://nio.gov.pl/)
 
 ## What do I use?
 
